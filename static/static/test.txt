@@ -1,1 +1,1 @@
-wdadwa
+The directory is to store the QR code, temporarily.
